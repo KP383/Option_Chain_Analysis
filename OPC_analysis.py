@@ -7,7 +7,7 @@ list of functions :
 5) get_pcr
 '''
 
-
+# add for example
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
